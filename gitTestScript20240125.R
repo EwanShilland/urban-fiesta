@@ -8,3 +8,4 @@
 
 #diff tab in git shows what you've changed
 #"more" "revert" goes back a version
+#can also goback versions from within r
