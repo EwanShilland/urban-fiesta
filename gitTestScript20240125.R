@@ -11,3 +11,4 @@
 #can also goback versions from within r
 #had to login with code to get git to update online repo
 #all looked ok here until tried to push
+#fixed it
