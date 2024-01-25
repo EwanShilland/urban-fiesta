@@ -9,3 +9,5 @@
 #diff tab in git shows what you've changed
 #"more" "revert" goes back a version
 #can also goback versions from within r
+#had to login with code to get git to update online repo
+#all looked ok here until tried to push
