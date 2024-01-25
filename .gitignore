@@ -2,6 +2,8 @@
 # add things for git to ignore
 #no pdf backups thanks git
 *.pdf
+*.html
+*.jpg
 #eg ignore everything in a directory raw-data/*
 raw-data/*
 
