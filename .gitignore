@@ -4,6 +4,7 @@
 *.pdf
 *.html
 *.jpg
+*.tex
 #eg ignore everything in a directory raw-data/*
 raw-data/*
 
