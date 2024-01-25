@@ -1,3 +1,10 @@
+
+# add things for git to ignore
+#no pdf backups thanks git
+*.pdf
+#eg ignore everything in a directory raw-data/*
+raw-data/*
+
 # History files
 .Rhistory
 .Rapp.history
